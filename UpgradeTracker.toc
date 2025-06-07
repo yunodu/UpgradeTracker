@@ -1,0 +1,15 @@
+## Interface: 110105
+## Title: Upgrade Tracker
+## Notes: Displays crest requirements for your currently equipped items
+## Author: yunodu
+## Version: 1.0
+## IconTexture: Interface\AddOns\UpgradeTracker\Media\Icons\icon.tga
+
+Localization.lua
+UpgradeInfos.lua
+TooltipStuff.lua
+Interface.lua
+UpgradeLogic.lua
+EventHandler.lua
+TabHandler.lua
+UpgradeTracker.lua
